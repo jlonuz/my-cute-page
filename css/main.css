@@ -1,0 +1,107 @@
+.menu {
+	padding-left: 500px;
+	margin-left: 35%;
+
+}
+li {
+	display:inline-block;
+	width: 10%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+li a {
+	list-style: none;
+	text-decoration: none;
+	color:black;
+	font-family: 'Oswald';
+	text-align: center;
+}
+.fondo {
+	background:url(../images/background.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 500px;
+	position:relative;
+}
+
+.logo {
+	position:relative;
+	left:590px;
+	top:100px;
+}
+.title {
+	font-family:'Poppins';
+	color:#CED2E7;
+	font-size: 30px;
+	position:absolute;
+	left:570px;
+	top:170px;
+}
+.to {
+	position:absolute;
+	left:530px;
+	top:210px;
+	color:#CED2E7;
+	font-family: 'Poppins';
+}
+.textura {
+	background:url(../images/tile1.png);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	width:100%;
+	height:400px;
+}
+.perfil {
+	width:200px;
+	height:200px;
+	float:right;
+	margin-top:150px;
+}
+h2 {
+	color:purple;
+	font-family: 'Oswald';
+	margin-top: 100px;
+	margin-left: 150px;
+}
+.lorem {
+	font-size: 13px;
+	font-family: 'Oswald';
+	padding-top: 30px;
+}
+.blanco {
+	margin-left: 190px;
+	margin-right: 100px;
+}
+.favorito {
+	margin-left: 500px;
+	color:purple;
+	font-family: 'Oswald';
+
+}
+h4 {
+	margin-left: 60px;
+	margin-top: 80px;
+	margin-bottom: 30px;
+}
+.gatis {
+	border-radius: 100%;
+	margin:20px;
+	border:2px solid purple;
+	padding:2px;
+	width:150px;
+}
+h6 {
+	letter-spacing: 3px;
+}
+.contact {
+	background:url(../images/tile2.png);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	width:100%;
+	height:300px;
+
+}
